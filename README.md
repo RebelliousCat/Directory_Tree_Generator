@@ -1,5 +1,7 @@
 # Directory Tree Generator
 
+The latest version can be downloaded from the [Released](https://github.com/RebelliousCat/Directory_Tree_Generator/releases) section.
+
 A minimal tool that generates a textual directory tree of the folder in which it is executed.
 This is the initial basic version, made quickly and used for some time. It will very likely be improved in the near future to meet specific needs.
 
