@@ -1,6 +1,7 @@
 # Directory Tree Generator
 
 A minimal tool that generates a directory structure including folders and optionally files of the folder in which it is executed.
+
 This is the 1.0 version, rebuilt from scratch with more options and personalization icons representing file types, file and folder sizes, and some filtering options.
 
 ## What it does
