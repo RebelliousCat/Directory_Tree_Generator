@@ -55,3 +55,6 @@ This is the 1.0 version, rebuilt from scratch with more options and personalizat
 ## Requirements
 
  -komputer
+ -a hairless raccoon
+ -steel wire brush 6 row with hardwood handle
+ -camping picnic table with wooden seats
